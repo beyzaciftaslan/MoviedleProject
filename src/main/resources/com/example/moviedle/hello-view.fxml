@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="704.0" prefWidth="760.0" style="-fx-background-color: #EEEDE7;" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="">
+   <children>
+      <VBox layoutX="30.0" layoutY="87.0" prefHeight="534.0" prefWidth="686.0">
+         <children>
+            <HBox alignment="TOP_CENTER" prefHeight="66.0" prefWidth="686.0" style="-fx-border-color: #B9B7BD;">
+               <children>
+                  <Label text="Label">
+                     <HBox.margin>
+                        <Insets bottom="30.0" left="30.0" right="30.0" top="45.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="lbl2" text="Label" wrapText="true">
+                     <HBox.margin>
+                        <Insets bottom="30.0" left="30.0" right="30.0" top="45.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="lbl3" text="Label" wrapText="true">
+                     <HBox.margin>
+                        <Insets bottom="30.0" left="30.0" right="30.0" top="45.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="lbl4" text="Label" wrapText="true">
+                     <HBox.margin>
+                        <Insets bottom="30.0" left="30.0" right="30.0" top="45.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="lbl5" text="Label" wrapText="true">
+                     <HBox.margin>
+                        <Insets bottom="30.0" left="30.0" right="30.0" top="45.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="lbl6" text="Label" wrapText="true">
+                     <HBox.margin>
+                        <Insets bottom="30.0" left="30.0" right="30.0" top="45.0" />
+                     </HBox.margin>
+                  </Label>
+                  <ImageView fx:id="img1" disable="true" fitHeight="110.0" fitWidth="103.0" pickOnBounds="true" preserveRatio="true">
+                     <HBox.margin>
+                        <Insets left="20.0" />
+                     </HBox.margin>
+                  </ImageView>
+               </children>
+            </HBox>
+            <HBox prefHeight="74.0" prefWidth="686.0" style="-fx-border-color: #B9B7BD;">
+               <children>
+                  <Label fx:id="lbl7" text="Label" wrapText="true">
+                     <HBox.margin>
+                        <Insets bottom="30.0" left="30.0" right="30.0" top="45.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="lbl8" text="Label" wrapText="true">
+                     <HBox.margin>
+                        <Insets bottom="30.0" left="30.0" right="30.0" top="45.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="lbl9" text="Label" wrapText="true">
+                     <HBox.margin>
+                        <Insets bottom="30.0" left="30.0" right="30.0" top="45.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="lbl10" text="Label" wrapText="true">
+                     <HBox.margin>
+                        <Insets bottom="30.0" left="30.0" right="30.0" top="45.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="lbl11" text="Label" wrapText="true">
+                     <HBox.margin>
+                        <Insets bottom="30.0" left="30.0" right="30.0" top="45.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="lbl12" text="Label" wrapText="true">
+                     <HBox.margin>
+                        <Insets bottom="30.0" left="30.0" right="30.0" top="45.0" />
+                     </HBox.margin>
+                  </Label>
+                  <ImageView fx:id="img2" fitHeight="110.0" fitWidth="103.0" pickOnBounds="true" preserveRatio="true">
+                     <HBox.margin>
+                        <Insets left="20.0" />
+                     </HBox.margin>
+                  </ImageView>
+               </children>
+            </HBox>
+            <HBox prefHeight="63.0" prefWidth="686.0" style="-fx-border-color: #B9B7BD;">
+               <children>
+                  <Label fx:id="lbl13" text="Label" wrapText="true">
+                     <HBox.margin>
+                        <Insets bottom="30.0" left="30.0" right="30.0" top="45.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="lbl14" text="Label" wrapText="true">
+                     <HBox.margin>
+                        <Insets bottom="30.0" left="30.0" right="30.0" top="45.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="lbl15" text="Label" wrapText="true">
+                     <HBox.margin>
+                        <Insets bottom="30.0" left="30.0" right="30.0" top="45.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="lbl16" text="Label" wrapText="true">
+                     <HBox.margin>
+                        <Insets bottom="30.0" left="30.0" right="30.0" top="45.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="lbl17" text="Label" wrapText="true">
+                     <HBox.margin>
+                        <Insets bottom="30.0" left="30.0" right="30.0" top="45.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="lbl18" text="Label" wrapText="true">
+                     <HBox.margin>
+                        <Insets bottom="30.0" left="30.0" right="30.0" top="45.0" />
+                     </HBox.margin>
+                  </Label>
+                  <ImageView fx:id="img3" fitHeight="110.0" fitWidth="103.0" pickOnBounds="true" preserveRatio="true">
+                     <HBox.margin>
+                        <Insets left="20.0" />
+                     </HBox.margin>
+                  </ImageView>
+               </children>
+            </HBox>
+            <HBox prefHeight="0.0" prefWidth="782.0" style="-fx-border-color: #B9B7BD;">
+               <children>
+                  <Label fx:id="lbl19" text="Label" wrapText="true">
+                     <HBox.margin>
+                        <Insets bottom="30.0" left="30.0" right="30.0" top="45.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="lbl20" text="Label" wrapText="true">
+                     <HBox.margin>
+                        <Insets bottom="30.0" left="30.0" right="30.0" top="45.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="lbl21" text="Label" wrapText="true">
+                     <HBox.margin>
+                        <Insets bottom="30.0" left="30.0" right="30.0" top="30.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="lbl22" text="Label" wrapText="true">
+                     <HBox.margin>
+                        <Insets bottom="30.0" left="30.0" right="30.0" top="30.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="lbl23" text="Label" wrapText="true">
+                     <HBox.margin>
+                        <Insets bottom="30.0" left="30.0" right="30.0" top="30.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="lbl24" text="Label" wrapText="true">
+                     <HBox.margin>
+                        <Insets bottom="30.0" left="30.0" right="30.0" top="30.0" />
+                     </HBox.margin>
+                  </Label>
+                  <ImageView fx:id="img4" fitHeight="110.0" fitWidth="103.0" pickOnBounds="true" preserveRatio="true">
+                     <HBox.margin>
+                        <Insets left="20.0" />
+                     </HBox.margin>
+                  </ImageView>
+               </children>
+            </HBox>
+            <HBox prefHeight="100.0" prefWidth="200.0" style="-fx-border-color: #B9B7BD;">
+               <children>
+                  <Label fx:id="lbl25" text="Label" wrapText="true">
+                     <HBox.margin>
+                        <Insets bottom="30.0" left="30.0" right="30.0" top="30.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="lbl26" text="Label" wrapText="true">
+                     <HBox.margin>
+                        <Insets bottom="30.0" left="30.0" right="30.0" top="30.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="lbl27" text="Label" wrapText="true">
+                     <HBox.margin>
+                        <Insets bottom="30.0" left="30.0" right="30.0" top="30.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="lbl28" text="Label" wrapText="true">
+                     <HBox.margin>
+                        <Insets bottom="30.0" left="30.0" right="30.0" top="30.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="lbl29" text="Label" wrapText="true">
+                     <HBox.margin>
+                        <Insets bottom="30.0" left="30.0" right="30.0" top="30.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="lbl30" text="Label" wrapText="true">
+                     <HBox.margin>
+                        <Insets bottom="30.0" left="30.0" right="30.0" top="30.0" />
+                     </HBox.margin>
+                  </Label>
+                  <ImageView fx:id="img5" fitHeight="110.0" fitWidth="103.0" pickOnBounds="true" preserveRatio="true">
+                     <HBox.margin>
+                        <Insets left="20.0" />
+                     </HBox.margin>
+                  </ImageView>
+               </children>
+            </HBox>
+         </children>
+      </VBox>
+      <Label layoutX="30.0" layoutY="22.0" style="-fx-background-color: #EEEDE7;" text="  Moviedle  ">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+      <TextField layoutX="173.0" layoutY="27.0" prefHeight="26.0" prefWidth="414.0" />
+      <Label layoutX="320.0" layoutY="664.0" text="chances to guess!" textFill="#868b8e">
+         <font>
+            <Font name="Times New Roman" size="20.0" />
+         </font></Label>
+      <Label fx:id="lblHak" layoutX="299.0" layoutY="659.0" text="5" textFill="#000508">
+         <font>
+            <Font name="Times New Roman" size="29.0" />
+         </font></Label>
+      <Button fx:id="btn1" layoutX="624.0" layoutY="25.0" mnemonicParsing="false" onMouseClicked="#clickButton" prefHeight="30.0" prefWidth="71.0" style="-fx-background-color: #868B8E;" text="Guess!" />
+   </children>
+</AnchorPane>
